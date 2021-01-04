@@ -5,7 +5,7 @@
 - Visualized the data trends between years of experience and salary by using linear regression.
 - Segregated the predictor into test and training set for prediction of original and newer data points.
 
-## Steps:
+#### Steps:
 1. Imported numpy, matplotlib, and pandas libraries and read the csv data file.
 2. Divided the dataset into x-axis and y-axis.
 3. Elimintated the missing data using scikit-learn library by importing SimpleImputer.
