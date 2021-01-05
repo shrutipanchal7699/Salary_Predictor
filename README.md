@@ -1,9 +1,10 @@
 # Salary_Predictor
 
-- Prediced salary based on the number of years of experience in France, Spain and Germnay.
-- Imported, cleaned and pre-processed data from a csv file by using pandas and scikit-learn libraries. 
+- Predicted salary based on the number of years of experience in France, Spain, and Germany.
+- Imported, cleaned, and pre-processed data from a CSV file by using pandas and scikit-learn libraries.
 - Visualized the data trends between years of experience and salary by using linear regression.
 - Segregated the predictor into test and training set for prediction of original and newer data points.
+
 
 #### Steps:
 1. Imported numpy, matplotlib, and pandas libraries and read the csv data file.
